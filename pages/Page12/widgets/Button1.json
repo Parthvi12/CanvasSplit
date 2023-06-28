@@ -18,12 +18,13 @@
     "mobileRightColumn": 31,
     "animateLoading": true,
     "parentColumnSpace": 12.578125,
+    "dynamicTriggerPathList": [],
     "leftColumn": 15,
     "dynamicBindingPathList": [
         {"key": "buttonColor"},
         {"key": "borderRadius"}
     ],
-    "text": "Submit",
+    "text": "Dont-Submit",
     "isDisabled": false,
     "key": "jc8ct4lks1",
     "isDeprecated": false,
