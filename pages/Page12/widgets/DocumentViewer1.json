@@ -2,7 +2,7 @@
     "mobileBottomRow": 82,
     "widgetName": "DocumentViewer1",
     "isCanvas": false,
-    "displayName": "Document Viewer",
+    "displayName": "DocumentViewer",
     "iconSVG": "/static/media/icon.108b743c515ff2bdc38f122cdf229c71.svg",
     "searchTags": ["pdf"],
     "topRow": 42,
